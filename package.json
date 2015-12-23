@@ -28,7 +28,12 @@
   },
   "dependencies": {
     "angularjs": "0.0.1",
+    "csv": "^0.4.6",
+    "csv-parse": "^1.0.1",
     "lib": "^0.1.1",
-    "react-chartist": "^0.10.1"
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "react-chartist": "^0.10.1",
+    "request": "^2.67.0"
   }
 }
